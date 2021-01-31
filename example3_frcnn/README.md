@@ -33,7 +33,7 @@
 ```sh
 $ sudo apt update
 $ sudo apt install jupyter-notebook
-$ git clone https://github.com/Ar-Ray-code/frcnn-Jupyter-ROS.git
+$ git clone https://github.com/Ar-Ray-code/jupyter-ros1-playground.git
 ```
 
 2. Build cv-bridge
