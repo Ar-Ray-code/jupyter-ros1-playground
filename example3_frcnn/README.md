@@ -1,4 +1,4 @@
-# frcnn-Jupyter-ROS
+# Example3:frcnn-Jupyter-ROS (ROS1 Melodic)
  Faster R-CNN implementation packaged for ROS on Jupyter Notebook
 
 ![output](images_for_readme/output.png)
@@ -18,7 +18,7 @@
 #### Pip packages
 
 - opencv-python==4.4.0.42
-- cv-bridge==1.13.0 (Build by yourself)
+- cv-bridge==1.13.0 (Melodic : Build by yourself)
 - torch==1.7.1 (CUDA10.2)
 - torchvision==0.8.2
 
