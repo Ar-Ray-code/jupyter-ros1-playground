@@ -3,11 +3,11 @@ Example program of jupyter-notebook with ROS1.  Source codes are based on Google
 
 ## Link
 
-- [Example1:PutText(Installation(Ubuntu20)](https://github.com/Ar-Ray-code/jupyter-ros1-playground/tree/main/example1_puttext/)
+- [Example1:PutText (&Installation(Ubuntu20))](https://github.com/Ar-Ray-code/jupyter-ros1-playground/tree/main/example1_puttext/)
 
 - [Example2:FaceTracking](https://github.com/Ar-Ray-code/jupyter-ros1-playground/tree/main/example2_face_detection/)
 
-- [Example3:Faster-RCNN(Installation(Ubuntu18))](https://github.com/Ar-Ray-code/jupyter-ros1-playground/tree/main/example3_frcnn/)
+- [Example3:Faster-RCNN (&Installation(Ubuntu18))](https://github.com/Ar-Ray-code/jupyter-ros1-playground/tree/main/example3_frcnn/)
 
 ## Dependence
 
