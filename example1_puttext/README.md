@@ -131,7 +131,6 @@ Open simple_example_puttext in web browser and Select "Run All" to start process
 
 Display the result on rqt_image_view. (Subscribing "/output_image")
 
-![ANNE_rqt](images_for_readme/ANNE_rqt.png)
 
 This tutorial is complete!:tada::tada:
 
